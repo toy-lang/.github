@@ -1,2 +1,11 @@
 # toylang
-A vertasile programming language that compiles to bytecode to be run on any machine, and is perfect for many things such as game dev.
+What the heck is a compile time?
+
+## Goals
+- Compilation speed
+- Safety
+- Reliability
+
+## For more info
+- [Source code and Installation](https://github.com/toy-lang/toy)
+- [Website](https://toy-lang.github.io/)
