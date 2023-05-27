@@ -1,3 +1,5 @@
+**A [Team Minty](https://github.com/teamminty) project**
+
 # toylang
 What the heck is a compile time?
 
